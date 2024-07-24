@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\IA2\bin\Debug\IA2.exe.config
+C:\Users\USUARIO\source\repos\IA2\bin\Debug\IA2.exe
+C:\Users\USUARIO\source\repos\IA2\bin\Debug\IA2.pdb
+C:\Users\USUARIO\source\repos\IA2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\source\repos\IA2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\source\repos\IA2\obj\Debug\IA2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\IA2\obj\Debug\IA2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\IA2\obj\Debug\IA2.csproj.Up2Date
+C:\Users\USUARIO\source\repos\IA2\obj\Debug\IA2.exe
+C:\Users\USUARIO\source\repos\IA2\obj\Debug\IA2.pdb
